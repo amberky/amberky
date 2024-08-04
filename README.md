@@ -1,6 +1,6 @@
 ### Hello, I am Amber
 
-I'm a full-stack developer with a passion for frontend development. I am working towards transitioning into a dedicated frontend developer role to focus on crafting amazing web experiences.
+I'm a full-stack developer with a passion for web development. 
 
 - 📍 Based in Penang, Malaysia.
 - 💻 I use `.ts`, `.html`, `.css`, `.py`
